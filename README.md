@@ -7,8 +7,6 @@ parent:
   <h1> Cosmos SDK </h1>
 </div>
 
-![banner](docs/cosmos-sdk-image.jpg)
-
 <div align="center">
   <a href="https://github.com/cosmos/cosmos-sdk/releases/latest">
     <img alt="Version" src="https://img.shields.io/github/tag/cosmos/cosmos-sdk.svg" />
